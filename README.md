@@ -1,4 +1,4 @@
-[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnvelu)](https://github.com/mhnvelu/github-readme-stats)
+[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnvelu&show_icons=true)](https://github.com/mhnvelu/github-readme-stats)
 
 
 Here are some ideas to get you started:
