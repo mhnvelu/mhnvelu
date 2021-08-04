@@ -1,3 +1,17 @@
+## Technologies and Tools
+
+![](https://img.shields.io/badge/Code-Java-informational?labelColor=d3d3d3&style=flat&logo=Java&logoColor=black&color=5dbc2b)
+![](https://img.shields.io/badge/Framework-Spring-informational?labelColor=d3d3d3&style=flat&logo=Spring&logoColor=black&color=5dbc2b)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?labelColor=d3d3d3&style=flat&logo=SpringBoot&logoColor=black&color=5dbc2b)
+![](https://img.shields.io/badge/Code-Node.js-informational?labelColor=d3d3d3&style=flat&logo=Node.js&logoColor=black&color=5dbc2b)
+![](https://img.shields.io/badge/Container-Docker-informational?labelColor=d3d3d3&style=flat&logo=Docker&logoColor=black&color=5dbc2b)
+![](https://img.shields.io/badge/Orchestrator-Kubernetes-informational?labelColor=d3d3d3&style=flat&logo=Kubernetes&logoColor=black&color=5dbc2b)
+![](https://img.shields.io/badge/Cloud-AmazonAWS-informational?labelColor=d3d3d3&style=flat&logo=AmazonAWS&logoColor=black&color=5dbc2b)
+![](https://img.shields.io/badge/Build-Maven-informational?labelColor=d3d3d3&style=flat&logo=ApacheMaven&logoColor=black&color=5dbc2b)
+![](https://img.shields.io/badge/UI-React-informational?labelColor=d3d3d3&style=flat&logo=React&logoColor=black&color=5dbc2b)
+
+
+
 [![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnvelu&show_icons=true)](https://github.com/mhnvelu/)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnvelu&langs_count=10)](https://github.com/mhnvelu/)
