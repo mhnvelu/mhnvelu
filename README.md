@@ -2,7 +2,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnvelu&langs_count=10)](https://github.com/mhnvelu/github-readme-stats)
 
-[![Mohan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhnvelu)](https://github.com/mhnvelu/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=aws-serverless-project)](https://github.com/mhnvelu/github-readme-stats)
+
 
 
 
