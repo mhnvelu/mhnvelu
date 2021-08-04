@@ -1,32 +1,31 @@
-[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnvelu&show_icons=true)](https://github.com/mhnvelu/github-readme-stats)
+[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnvelu&show_icons=true)](https://github.com/mhnvelu/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnvelu&langs_count=10)](https://github.com/mhnvelu/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=aws-serverless-project)](https://github.com/mhnvelu/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=aws-eks)](https://github.com/mhnvelu/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=dairy-factory)](https://github.com/mhnvelu/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=CKAD)](https://github.com/mhnvelu/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=nodejs-advanced)](https://github.com/mhnvelu/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=react-boot-camp)](https://github.com/mhnvelu/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnvelu&langs_count=10)](https://github.com/mhnvelu/)
 
 
+<a href="https://github.com/mhnvelu/aws-serverless-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=aws-serverless-project" />
+</a>
+<a href="https://github.com/mhnvelu/aws-eks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=aws-eks" />
+</a>
+<a href="https://github.com/mhnvelu/dairy-factory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=dairy-factory" />
+</a>
+<a href="https://github.com/mhnvelu/CKAD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=CKAD" />
+</a>
+<a href="https://github.com/mhnvelu/nodejs-advanced">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=nodejs-advanced" />
+</a>
+<a href="https://github.com/mhnvelu/react-boot-camp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnvelu&repo=react-boot-camp" />
+</a>
 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Camunda BPMN Engine, Docker, K8s
+- 🌱 I’m currently learning AWS Serverless
+- 👯 I’m looking to collaborate on AWS Serverless or any other cloud platforms
+- 📫 How to reach me: mhnvelu@gmail.com
+- 😄 Pronouns: He/Him
 -->
