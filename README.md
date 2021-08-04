@@ -1,7 +1,5 @@
-### Hi there 👋
+[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnvelu)](https://github.com/mhnvelu/github-readme-stats)
 
-<!--
-**mhnvelu/mhnvelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
