@@ -1,6 +1,6 @@
 [![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnvelu&show_icons=true)](https://github.com/mhnvelu/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnvelu)](https://github.com/mhnvelu/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnvelu&langs_count=10)](https://github.com/mhnvelu/github-readme-stats)
 
 
 
