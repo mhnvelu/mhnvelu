@@ -44,7 +44,7 @@
 <br/>
 
 - 🔭 I’m currently working on AWS Serverless, API Gateway, Lambda, SQS, Step Functions, S3, Nodejs, Angular, RxJS, ngRx
-- 🌱 Other tech skills - Java, Spring, Camunda BPMN Engine, Docker, K8s
+- 🌱 Other tech skills - Java, Spring, SpringBoot, Camunda BPMN Engine, Docker, K8s
 - 👯 I’m looking to collaborate on AWS Serverless or any other cloud platforms
 - 📫 How to reach me: mhnvelu@gmail.com
 - 😄 Pronouns: He/Him
